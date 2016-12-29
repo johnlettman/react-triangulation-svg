@@ -1,4 +1,4 @@
-![Sample Frame](doc/images/frame.svg)
+![Sample Frame](doc/images/banner.png)
 
 # △ React.js Triangulation SVG
 A component for rendering randomly colored SVG triangle polygons with optional
