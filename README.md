@@ -1,8 +1,9 @@
 ![Sample Frame](doc/images/banner.png)
 
-# △ React.js Triangulation SVG (`react-triangulation-svg`)
-A component for rendering randomly colored SVG triangle polygons with optional
-wave animation support via the SVG [`<animate>`](svg.animate) tag.
+# △ React.js Triangulation SVG
+**React.js Triangulation SVG** (`react-triangulation-svg`) is a component for
+rendering randomly colored SVG triangle polygons with optional wave animation
+support via the SVG [`<animate>`](svg.animate) tag.
 
 [svg.animate]: https://developer.mozilla.org/en-US/docs/Web/SVG/Element/animate
 
