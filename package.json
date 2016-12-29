@@ -1,5 +1,6 @@
 {
   "name": "react-triangulation-svg",
+  "license": "MIT",
   "author": "John Lettman <johnlettman@openmailbox.org>",
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook"
