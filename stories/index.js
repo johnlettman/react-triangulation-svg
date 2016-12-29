@@ -49,6 +49,23 @@ stories.addWithInfo('simple usage', '', () => {
       onTick={action('animation update tick')} />);
 });
 
+stories.addWithInfo('custom triangle style', '', () => {
+  return (
+    <Triangulation
+      triangleStyle={{
+        stroke: '#888888',
+        strokeWidth: 4
+      }}
+      width={number('width', 550)}
+      height={number('height', 350)}
+      density={number('density', 20)}
+
+      uniform={boolean('uniform?', false)}
+      animated={boolean('animated?', true)}
+
+      onTick={action('animation update tick')} />);
+});
+
 stories.addWithInfo('custom size', '', () => {
   return (
     <Triangulation
